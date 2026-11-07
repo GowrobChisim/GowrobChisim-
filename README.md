@@ -2,6 +2,8 @@
 
 ### 💻 Aspiring Full-Stack Developer | Future AI Engineer
 
+<meta name="google-site-verification" content="ffiFbS9wUtTozhPbq5UZTY_oRpXsKccK0xH1VXoxAlQ" />
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;Learning+Full-Stack+Development;Exploring+Artificial+Intelligence" alt="Typing SVG" />
 </p>
