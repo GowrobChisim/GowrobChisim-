@@ -71,7 +71,7 @@ I enjoy building projects, exploring new technologies, and continuously improvin
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Gowrob7">
+  <a href="https://github.com/GowrobChisim">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
